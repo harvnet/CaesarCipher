@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Caesar Cipher</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="author">Paul Harvey (harv0116)</string>
+    <string name="action_sms">SMS</string>
+    <string name="enterMessage">Enter Message</string>
+    <string name="clear">Clear</string>
+    <string name="enterEncryptedMessage">Enter Message</string>
+    <string name="plainHint">Type your Message Here&#8230;</string>
+    <string name="encryptedHint">Type Your Encrypted Message Here&#8230;</string>
+    <string name="messageLabel">Plain Message</string>
+    <string name="messageLabelEnc">Encrypted Message</string>
+</resources>
